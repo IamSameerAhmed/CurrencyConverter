@@ -3,13 +3,11 @@
 <br>This Plugin is to convert all the Currencies on your Store according to  Customer location </br>
 
 
-
 <h3>Step 1: Get API from Geo Location</h3>
  Go to https://app.ipgeolocation.io/ and SingUp with your account.
  After Sign In you can the API as Shown below.
  
- ![image](https://user-images.githubusercontent.com/121421319/210340149-0729f3fe-ebf7-4d85-b1f1-104a92d72a64.png)
-
+![tempsnip](https://user-images.githubusercontent.com/121421319/210345543-fc5a4ff8-2cfa-424c-9638-36e3b59c8e7a.png)
 
  <h3>Step 2 : Wrap you Currency Amouunt Tag Class</h3>
  
