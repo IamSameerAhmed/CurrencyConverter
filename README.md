@@ -15,7 +15,9 @@
  <code>$78,000</code>
  
  After 
- <code>"<span class="money"> $78,000 </span>"</code>
+ <code>
+ <span class="money"> $78,000 </span>
+</code>
  
  <h3>Step 3 : Paste This Javascript Code Before Closing Body Tag</h3>
  
