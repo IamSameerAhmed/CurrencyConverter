@@ -50,7 +50,7 @@
   _ipgeolocation.makeAsyncCallsToAPI(false);
   _ipgeolocation.enableSessionStorage(true);
   _ipgeolocation.setFields("currency");
-  _ipgeolocation.getGeolocation(setLocalCurrency, "e9c1fd4a802a4f0e84d2eccacee7bae8");
+  _ipgeolocation.getGeolocation(setLocalCurrency, "YOUR_API_HERE");
 </script>
  </code>
  
