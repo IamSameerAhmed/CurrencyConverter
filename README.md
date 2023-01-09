@@ -16,7 +16,7 @@
  
  After 
  
-/* <span class="money"> $78,000 </span>*/
+/* <span class="money"> $78,000 </>*/
 
  
  <h3>Step 3 : Paste This Javascript Code Before Closing Body Tag</h3>
