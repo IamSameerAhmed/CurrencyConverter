@@ -59,6 +59,8 @@ wrap it into class="money"
  
  <h3>Note</h3>
  <p>
- In My Case default Currency in USD you can Change the USD and $ Sign with your default currency.
+ In My Case default Currency in USD you can Change the USD and $ Sign with your default currency in the code.
+ 
  </p>
+
  
